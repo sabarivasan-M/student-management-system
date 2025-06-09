@@ -14,9 +14,9 @@ import re
 # Database Configuration
 DB_CONFIG = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'ms@2007',
-    'database': 'stud1'
+    'user': 'root',#default root
+    'password': '',#In between the codes add your My SQL password
+    'database': 'stud1'#default stud1
 }
 
 class Student:
