@@ -3,15 +3,15 @@
 
 ---
 
-## 📘 `README.md`
+##  `README.md`
 
 ```markdown
-# 🎓 Student Management System  
+#  Student Management System  
 *“A well-organized student is a well-prepared future.”*
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 This Python-based **Student Management System** is a full-featured desktop GUI application that helps manage student records with elegance. With a sleek **dark theme**, real-time **input validation**, and powerful **PDF & Excel export** functionality, this system transforms administrative tasks into a seamless experience.
 
@@ -19,18 +19,18 @@ Built using **Tkinter** for GUI, **MySQL** for backend storage, and powered by a
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔒 Input validation with meaningful alerts  
-- 🌙 Dark-themed interface for eye comfort  
-- 📄 Export student records as **PDF**  
-- 📊 Backup records as **Excel (XLSX)**  
-- 🔎 Smart search functionality by ID, Name, Email, or Phone  
-- ✍️ Add, Update, Delete, and View student details  
+-  Input validation with meaningful alerts  
+-  Dark-themed interface for eye comfort  
+-  Export student records as **PDF**  
+-  Backup records as **Excel (XLSX)**  
+-  Smart search functionality by ID, Name, Email, or Phone  
+-  Add, Update, Delete, and View student details  
 
 ---
 
-## 🏗️ Technologies Used
+##  Technologies Used
 
 - Python 3  
 - Tkinter (GUI)  
@@ -41,7 +41,7 @@ Built using **Tkinter** for GUI, **MySQL** for backend storage, and powered by a
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 
@@ -59,22 +59,22 @@ student-management-system/
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
-### 📥 Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/student-management-system.git
 cd student-management-system
 ````
 
-### 🧪 Install Dependencies
+###  Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 🗄️ MySQL Database Setup
+###  MySQL Database Setup
 
 Make sure you have a MySQL server running.
 
@@ -95,7 +95,7 @@ CREATE TABLE student (
 );
 ```
 
-> ✅ **Update your MySQL credentials** in `student.py` if different from:
+>  **Update your MySQL credentials** in `student.py` if different from:
 
 ```python
 DB_CONFIG = {
@@ -108,7 +108,7 @@ DB_CONFIG = {
 
 ---
 
-## 🧾 requirements.txt
+##  requirements.txt
 
 ```txt
 tk
@@ -125,7 +125,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🎮 Run the App
+##  Run the App
 
 ```bash
 python student.py
@@ -133,31 +133,25 @@ python student.py
 
 ---
 
-## 🖼️ Screenshots (Optional)
+##  Screenshots (Optional)
 
 > *(Add screenshots of your GUI here if you'd like to show the interface)*
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Sabarivasan**
 *“Code is not just logic — it's the language of possibility.”*
 
-Feel free to ⭐ star, fork, or contribute!
+Feel free to  star, fork, or contribute!
 
 ---
 
-```
 
----
-
-Would you like me to create `.gitignore` or a GitHub banner image to complete your repo’s presentation?  
-Let me know, and I’ll help you upload everything beautifully 🌱
-```
